@@ -15,7 +15,7 @@
     "isolatedModules": true,
     "noEmit": true,
     "jsx": "react-jsx",
-    "types": ["vite/Finance App/client"]
+    "types": ["vite/FinanceApp/client"]
   },
   "include": ["src"],
   "references": [{ "path": "./tsconfig.node.json" }]
